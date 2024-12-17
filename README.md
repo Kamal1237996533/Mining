@@ -1,0 +1,2 @@
+# Mining
+Fast BTC miner
